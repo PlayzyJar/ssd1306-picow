@@ -1,0 +1,1 @@
+Biblioteca com funções para o display LCD SSD1306 I2C para o microcontrolador Pi Pico W RP2040
