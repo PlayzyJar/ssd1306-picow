@@ -20,9 +20,9 @@ Developed by **Carlos Elias**.
 ```
 ssd1306-picow/
 ├── CMakeLists.txt        # Build configuration
-├── README.md             # Documentation (this file)
+├── README.md             # Documentation (this file...)
 └── src/
-    ├── main.c              # SSD1306 driver implementation
+    ├── main.c              # SSD1306 demo example
     └── display/
         ├── ssd1306.c              # SSD1306 driver implementation
         ├── ssd1306.h              # SSD1306 driver header
